@@ -1,3 +1,3 @@
 export const environment = {
-    apiUrl:'http://www.cricketinformer.com'
+    apiUrl:'https://nitesh-cricket-live-score-project-rs2z.vercel.app'
 };

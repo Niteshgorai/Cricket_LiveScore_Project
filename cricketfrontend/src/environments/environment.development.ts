@@ -1,3 +1,4 @@
 export const environment = {
-    apiUrl:'http://localhost:8080'
+    production: true,
+    apiUrl:'https://nitesh-cricket-live-score-project-rs2z.vercel.app'
 };
