@@ -1,4 +1,4 @@
 export const environment = {
     production: true,
-    apiUrl:'https://nitesh-cricket-live-score-project-rs2z.vercel.app'
+    apiUrl:'https://cricket-live-score-project-ozne.vercel.app/'
 };
